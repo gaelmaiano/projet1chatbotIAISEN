@@ -2,5 +2,6 @@ description: Ce repository contient les fichiers pour la création d un chatbot 
 table des matières: contient un fichier jsonL pour le fin tunning un fichier de conf python pour l'entrainement.
 foctionalité
 techno: contient un modèle d 'IA chatgpt nano un fichier JSONL pour le fine tunné. un fichier python.Un Docker compose pour la BDD et linterface graphique de la BDD. Cette derniere permet de garder en memoire les reponses afin de limiter le nombre de requetes payante a chatgpt
+contributeurs: Nathalie Bediée et Gael Maiano
 
 
